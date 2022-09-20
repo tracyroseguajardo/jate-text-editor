@@ -51,3 +51,6 @@ Link to deployed application:
 
 Screenshot of application:
 ![Text Editor Screenshot](./assets/text-editor-screenshot.png)
+
+Link to application repository:
+[Text Editor Repository](https://github.com/tracyroseguajardo/jate-text-editor)
